@@ -9,7 +9,10 @@ var letterArray = "abcdefghijklmnopqrstuvwxyz";
 var DisneyWords = [ 'lightning mcqueen', 'dash', 'mr incredible', 'flick', 'mickey mouse', 'minnie mouse',
 'buzz lightyear', 'woody', 'snow white', 'cinderella', 'stitch', 'jessie', 'bullseye', 'merida',
 'donald duck', 'goofy', 'daisy', 'pete', 'pluto', 'goliath', 'hudson','brooklyn', 'chip', 'dale',
-'repunzel',];
+'repunzel', 'flynn rider', 'belle', 'beast', 'ariel', 'aladdin', 'genie', 'jasmine','scar', 'jafar', 'mothe gothel',
+'castmember', 'spalsh mountain', 'thunder mountain', 'space mountain', 'mt everest', 'star tours', 'dumbo', 
+'iago', 'simba', 'pumba', 'nemo', 'timone', 'jungle cruise', 'illuminations', 'wishes', 'mulan', 'mushu', 'haunted mansion', 'pirates of the carribean',
+'captain jack sparrow', 'elizabeth swan', 'will turner'];
 
 // Pick Random index from DisneyWords array
 var randomIndex = Math.floor(Math.random() * DisneyWords.length);
