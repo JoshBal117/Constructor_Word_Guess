@@ -56,7 +56,7 @@ function knowledge() {
             .prompt([
                 {
                     type: "input",
-                    message: "Guess a letter between A-Z!",
+                    message: "Guess a letter between A-Z! HINT: DISNEY THEME",
                     name: "userinput"
                 }
             ])
